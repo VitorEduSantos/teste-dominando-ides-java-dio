@@ -11,6 +11,7 @@ public class Calculadora {
 		
 		System.out.println("DIgite o primeiro valor:");
 		a = scan.nextInt();
+		
 		System.out.println("DIgite o segundo valor:");
 		b = scan.nextInt();
 		
